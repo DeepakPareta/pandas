@@ -17,7 +17,7 @@ This is a tool for managing a recorded version number in distutils-based
 python projects. The goal is to remove the tedious and error-prone "update
 the embedded version string" step from your release process. Making a new
 release should be as easy as recording a new tag in your version-control
-system, and maybe making new tarballs.
+system, and maybe making new tarball.
 
 
 ## Quick Install
